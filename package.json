@@ -1,7 +1,7 @@
 {
   "name": "minify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application was made by Skrz.cz developers to enable bulk minification of images from photo storage. Based on Imagemin.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
